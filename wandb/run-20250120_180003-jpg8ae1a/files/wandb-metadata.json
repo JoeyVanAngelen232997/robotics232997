@@ -1,0 +1,63 @@
+{
+  "os": "macOS-14.0-arm64-arm-64bit",
+  "python": "CPython 3.11.0",
+  "startedAt": "2025-01-20T17:00:03.450878Z",
+  "args": [
+    "--learning_rate",
+    "0.0001",
+    "--batch_size",
+    "128",
+    "--n_steps",
+    "4096",
+    "--n_epochs",
+    "15",
+    "--gamma",
+    "0.995",
+    "--policy",
+    "MlpPolicy",
+    "--clip_range",
+    "0.2",
+    "--value_coefficient",
+    "0.8"
+  ],
+  "program": "/Users/joeyvanangelen/Desktop/Code/BUas/robotics232997/train.py",
+  "codePath": "train.py",
+  "git": {
+    "remote": "https://github.com/JoeyVanAngelen232997/robotics232997.git",
+    "commit": "192aca9549dea3433d439eb306fc37f516258c2a"
+  },
+  "email": "232997@buas.nl",
+  "root": "/Users/joeyvanangelen/Desktop/Code/BUas/robotics232997",
+  "host": "Joey-MBA.local",
+  "username": "joeyvanangelen",
+  "executable": "/Users/joeyvanangelen/.pyenv/versions/3.11.0/bin/python",
+  "codePathLocal": "train.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "216274649088"
+    },
+    "/System/Volumes/Data": {
+      "total": "245107195904",
+      "used": "216274649088"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 7,
+    "memoryGb": 8,
+    "swapTotalBytes": "7516192768",
+    "ramTotalBytes": "8589934592"
+  }
+}
