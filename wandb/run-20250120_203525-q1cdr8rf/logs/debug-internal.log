@@ -1,0 +1,8 @@
+{"time":"2025-01-20T20:35:25.666194+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-01-20T20:35:25.666236+01:00","level":"INFO","msg":"created symlink","path":"/Users/joeyvanangelen/Desktop/Code/BUas/robotics232997/wandb/run-20250120_203525-q1cdr8rf/logs/debug-core.log"}
+{"time":"2025-01-20T20:35:25.779062+01:00","level":"INFO","msg":"created new stream","id":"q1cdr8rf"}
+{"time":"2025-01-20T20:35:25.779132+01:00","level":"INFO","msg":"stream: started","id":"q1cdr8rf"}
+{"time":"2025-01-20T20:35:25.779454+01:00","level":"INFO","msg":"sender: started","stream_id":"q1cdr8rf"}
+{"time":"2025-01-20T20:35:25.779452+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"q1cdr8rf"}
+{"time":"2025-01-20T20:35:25.779597+01:00","level":"INFO","msg":"handler: started","stream_id":"q1cdr8rf"}
+{"time":"2025-01-20T20:35:26.092648+01:00","level":"INFO","msg":"Starting system monitor"}

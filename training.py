@@ -4,10 +4,10 @@ import argparse
 from stable_baselines3 import PPO
 from wandb.integration.sb3 import WandbCallback
 from clearml import Task
+from env_V3_final_2 import CustomEnv 
 from datetime import datetime
 import typing_extensions
 import tensorboard
-from ot2_environment import OT2Env
 
 # Initialize command-line argument parser for hyperparameters
 parser = argparse.ArgumentParser()
@@ -24,18 +24,16 @@ parser.add_argument("--vf_coef", type=float, default=0.5)
 parser.add_argument("--policy", type=str, default="MlpPolicy")
 args = parser.parse_args()
 
-# Load the API key for wandb
-os.environ['WANDB_API_KEY'] = '4dc86acf289861c548514bbebcf1e5ae3cb63a5d'
+# Set WandB API key and initialize the project
+os.environ["WANDB_API_KEY"] = "15e8594f3ad74a144d38b801c5d29665e723e549"
 wandb.login()
 wandb.init(project="sb3_custom_env", sync_tensorboard=True)
 
 # Set up the environment
-# Define environment
-env = OT2Env()
+env = CustomEnv(render=False, max_steps=args.n_steps)
 
-
-# Initialize ClearML Task
-task = Task.init(project_name='Mentor Group M/Group 2', task_name='Bless Us jezus')
+# Initialize ClearML task for remote training setup
+task = Task.init(project_name='Mentor Group M/Group 2', task_name='hope')
 task.set_base_docker('deanis/2023y2b-rl:latest')
 task.execute_remotely(queue_name="default")
 
