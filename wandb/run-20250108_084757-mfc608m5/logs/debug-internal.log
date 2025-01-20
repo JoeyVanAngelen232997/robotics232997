@@ -1,8 +1,0 @@
-{"time":"2025-01-08T08:47:57.642672923Z","level":"INFO","msg":"using version","core version":"0.19.1"}
-{"time":"2025-01-08T08:47:57.642691493Z","level":"INFO","msg":"created symlink","path":"/home/y2b/Reinforcement-learning/wandb/run-20250108_084757-mfc608m5/logs/debug-core.log"}
-{"time":"2025-01-08T08:47:57.837264609Z","level":"INFO","msg":"created new stream","id":"mfc608m5"}
-{"time":"2025-01-08T08:47:57.837316419Z","level":"INFO","msg":"stream: started","id":"mfc608m5"}
-{"time":"2025-01-08T08:47:57.837358879Z","level":"INFO","msg":"writer: Do: started","stream_id":"mfc608m5"}
-{"time":"2025-01-08T08:47:57.837367129Z","level":"INFO","msg":"sender: started","stream_id":"mfc608m5"}
-{"time":"2025-01-08T08:47:57.837418599Z","level":"INFO","msg":"handler: started","stream_id":"mfc608m5"}
-{"time":"2025-01-08T08:47:58.084188283Z","level":"INFO","msg":"Starting system monitor"}

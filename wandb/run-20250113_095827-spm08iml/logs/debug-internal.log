@@ -1,9 +1,0 @@
-{"time":"2025-01-13T09:58:27.1192236+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
-{"time":"2025-01-13T09:58:27.1197606+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\jarro\\Documents\\GitHub\\Reinforcement learning\\wandb\\run-20250113_095827-spm08iml\\logs\\debug-core.log"}
-{"time":"2025-01-13T09:58:27.3500472+01:00","level":"INFO","msg":"created new stream","id":"spm08iml"}
-{"time":"2025-01-13T09:58:27.3510953+01:00","level":"INFO","msg":"stream: started","id":"spm08iml"}
-{"time":"2025-01-13T09:58:27.3516179+01:00","level":"INFO","msg":"sender: started","stream_id":"spm08iml"}
-{"time":"2025-01-13T09:58:27.3516179+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"spm08iml"}
-{"time":"2025-01-13T09:58:27.3510953+01:00","level":"INFO","msg":"handler: started","stream_id":"spm08iml"}
-{"time":"2025-01-13T09:58:27.9386808+01:00","level":"INFO","msg":"Starting system monitor"}
-{"time":"2025-01-13T09:58:39.3510954+01:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}

@@ -1,0 +1,22 @@
+2025-01-20 17:10:13,554 INFO    MainThread:22583 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2025-01-20 17:10:13,557 INFO    MainThread:22583 [wandb_setup.py:_flush():68] Configure stats pid to 22583
+2025-01-20 17:10:13,557 INFO    MainThread:22583 [wandb_setup.py:_flush():68] Loading settings from /Users/joeyvanangelen/.config/wandb/settings
+2025-01-20 17:10:13,558 INFO    MainThread:22583 [wandb_setup.py:_flush():68] Loading settings from /Users/joeyvanangelen/Desktop/Code/BUas/robotics232997/wandb/settings
+2025-01-20 17:10:13,558 INFO    MainThread:22583 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-01-20 17:10:13,558 INFO    MainThread:22583 [wandb_init.py:_log_setup():528] Logging user logs to /Users/joeyvanangelen/Desktop/Code/BUas/robotics232997/wandb/run-20250120_171013-3plrmr17/logs/debug.log
+2025-01-20 17:10:13,558 INFO    MainThread:22583 [wandb_init.py:_log_setup():529] Logging internal logs to /Users/joeyvanangelen/Desktop/Code/BUas/robotics232997/wandb/run-20250120_171013-3plrmr17/logs/debug-internal.log
+2025-01-20 17:10:13,558 INFO    MainThread:22583 [wandb_init.py:init():639] calling init triggers
+2025-01-20 17:10:13,558 INFO    MainThread:22583 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {}
+2025-01-20 17:10:13,558 INFO    MainThread:22583 [wandb_init.py:init():688] starting backend
+2025-01-20 17:10:13,558 INFO    MainThread:22583 [wandb_init.py:init():692] sending inform_init request
+2025-01-20 17:10:13,594 INFO    MainThread:22583 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-20 17:10:13,594 INFO    MainThread:22583 [wandb_init.py:init():705] backend started and connected
+2025-01-20 17:10:13,597 INFO    MainThread:22583 [wandb_init.py:init():798] updated telemetry
+2025-01-20 17:10:13,610 INFO    MainThread:22583 [wandb_init.py:init():830] communicating run to backend with 90.0 second timeout
+2025-01-20 17:10:13,985 INFO    MainThread:22583 [wandb_init.py:init():882] starting run threads in backend
+2025-01-20 17:10:14,075 INFO    MainThread:22583 [wandb_run.py:_console_start():2443] atexit reg
+2025-01-20 17:10:14,075 INFO    MainThread:22583 [wandb_run.py:_redirect():2293] redirect: wrap_raw
+2025-01-20 17:10:14,075 INFO    MainThread:22583 [wandb_run.py:_redirect():2358] Wrapping output streams.
+2025-01-20 17:10:14,075 INFO    MainThread:22583 [wandb_run.py:_redirect():2383] Redirects installed.
+2025-01-20 17:10:14,077 INFO    MainThread:22583 [wandb_init.py:init():925] run started, returning control to user process

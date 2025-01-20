@@ -1,8 +1,0 @@
-{"time":"2025-01-06T08:35:20.42488438Z","level":"INFO","msg":"using version","core version":"0.19.1"}
-{"time":"2025-01-06T08:35:20.42490593Z","level":"INFO","msg":"created symlink","path":"/home/y2b/Reinforcement-learning/wandb/run-20250106_083520-8eb7h3g1/logs/debug-core.log"}
-{"time":"2025-01-06T08:35:20.536257588Z","level":"INFO","msg":"created new stream","id":"8eb7h3g1"}
-{"time":"2025-01-06T08:35:20.536316778Z","level":"INFO","msg":"stream: started","id":"8eb7h3g1"}
-{"time":"2025-01-06T08:35:20.536377858Z","level":"INFO","msg":"handler: started","stream_id":"8eb7h3g1"}
-{"time":"2025-01-06T08:35:20.536380928Z","level":"INFO","msg":"writer: Do: started","stream_id":"8eb7h3g1"}
-{"time":"2025-01-06T08:35:20.536440478Z","level":"INFO","msg":"sender: started","stream_id":"8eb7h3g1"}
-{"time":"2025-01-06T08:35:20.833503679Z","level":"INFO","msg":"Starting system monitor"}

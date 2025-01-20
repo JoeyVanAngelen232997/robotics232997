@@ -1,4 +1,0 @@
-usage: trainownpc.py [-h] [--learning_rate LEARNING_RATE] [--batch_size BATCH_SIZE] [--n_steps N_STEPS]
-                     [--n_epochs N_EPOCHS] [--gamma GAMMA] [--policy POLICY] [--clip_range CLIP_RANGE]
-                     [--value_coefficient VALUE_COEFFICIENT]
-trainownpc.py: error: unrecognized arguments: --policy_kwargs {"net_arch":[256,256]}

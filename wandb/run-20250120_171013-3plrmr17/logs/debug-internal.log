@@ -1,0 +1,8 @@
+{"time":"2025-01-20T17:10:13.597857+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-01-20T17:10:13.5979+01:00","level":"INFO","msg":"created symlink","path":"/Users/joeyvanangelen/Desktop/Code/BUas/robotics232997/wandb/run-20250120_171013-3plrmr17/logs/debug-core.log"}
+{"time":"2025-01-20T17:10:13.707231+01:00","level":"INFO","msg":"created new stream","id":"3plrmr17"}
+{"time":"2025-01-20T17:10:13.707305+01:00","level":"INFO","msg":"stream: started","id":"3plrmr17"}
+{"time":"2025-01-20T17:10:13.707357+01:00","level":"INFO","msg":"handler: started","stream_id":"3plrmr17"}
+{"time":"2025-01-20T17:10:13.707541+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"3plrmr17"}
+{"time":"2025-01-20T17:10:13.707614+01:00","level":"INFO","msg":"sender: started","stream_id":"3plrmr17"}
+{"time":"2025-01-20T17:10:13.991212+01:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,7 +1,0 @@
-Using cpu device
-Wrapping the env with a `Monitor` wrapper
-Wrapping the env in a DummyVecEnv.
-Traceback (most recent call last):
-  File "train_pendulum.py", line 45, in <module>
-    model.learn(total_timesteps=timesteps, callback=wandb_callback, progress_bar=True, reset_num_timesteps=False,tb_log_name=f"runs/{run.id}")
-NameError: name 'timesteps' is not defined
