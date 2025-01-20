@@ -1,0 +1,17 @@
+{
+  "os": "macOS-14.0-arm64-arm-64bit",
+  "python": "CPython 3.11.0",
+  "startedAt": "2025-01-20T15:34:08.155037Z",
+  "program": "/Users/joeyvanangelen/Desktop/Code/BUas/robotics232997/train.py",
+  "codePath": "train.py",
+  "git": {
+    "remote": "https://github.com/JoeyVanAngelen232997/robotics232997.git",
+    "commit": "e3a69896832157fa8e3e2c5c6e22301443dd88f2"
+  },
+  "email": "232997@buas.nl",
+  "root": "/Users/joeyvanangelen/Desktop/Code/BUas/robotics232997",
+  "host": "Joey-MBA.local",
+  "username": "joeyvanangelen",
+  "executable": "/Users/joeyvanangelen/.pyenv/versions/3.11.0/bin/python",
+  "codePathLocal": "train.py"
+}
