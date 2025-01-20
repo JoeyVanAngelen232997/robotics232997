@@ -1,0 +1,16 @@
+{"time":"2025-01-20T16:33:06.252086+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-01-20T16:33:06.25216+01:00","level":"INFO","msg":"created symlink","path":"/Users/joeyvanangelen/Desktop/Code/BUas/robotics232997/wandb/run-20250120_163306-pbbsddws/logs/debug-core.log"}
+{"time":"2025-01-20T16:33:06.383125+01:00","level":"INFO","msg":"created new stream","id":"pbbsddws"}
+{"time":"2025-01-20T16:33:06.383409+01:00","level":"INFO","msg":"stream: started","id":"pbbsddws"}
+{"time":"2025-01-20T16:33:06.383872+01:00","level":"INFO","msg":"handler: started","stream_id":"pbbsddws"}
+{"time":"2025-01-20T16:33:06.38408+01:00","level":"INFO","msg":"sender: started","stream_id":"pbbsddws"}
+{"time":"2025-01-20T16:33:06.384104+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"pbbsddws"}
+{"time":"2025-01-20T16:33:06.679766+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-20T16:33:07.261544+01:00","level":"INFO","msg":"stream: closing","id":"pbbsddws"}
+{"time":"2025-01-20T16:33:07.261748+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-20T16:33:07.262318+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-20T16:33:08.059469+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-20T16:33:08.391304+01:00","level":"INFO","msg":"handler: closed","stream_id":"pbbsddws"}
+{"time":"2025-01-20T16:33:08.391334+01:00","level":"INFO","msg":"sender: closed","stream_id":"pbbsddws"}
+{"time":"2025-01-20T16:33:08.391319+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pbbsddws"}
+{"time":"2025-01-20T16:33:08.391531+01:00","level":"INFO","msg":"stream: closed","id":"pbbsddws"}
