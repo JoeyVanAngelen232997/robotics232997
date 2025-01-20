@@ -4,10 +4,10 @@ import argparse
 from stable_baselines3 import PPO
 from wandb.integration.sb3 import WandbCallback
 from clearml import Task
-from env_V3_final_2 import CustomEnv 
 from datetime import datetime
 import typing_extensions
 import tensorboard
+from ot2_environment import OT2Env
 
 # Initialize command-line argument parser for hyperparameters
 parser = argparse.ArgumentParser()
@@ -30,7 +30,8 @@ wandb.login()
 wandb.init(project="sb3_custom_env", sync_tensorboard=True)
 
 # Set up the environment
-env = CustomEnv(render=False, max_steps=args.n_steps)
+# Define environment
+env = OT2Env()
 
 
 # Initialize ClearML Task
