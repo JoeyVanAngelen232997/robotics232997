@@ -1,0 +1,18 @@
+{"time":"2025-01-09T12:18:26.2901255+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-01-09T12:18:26.2901255+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\jarro\\Documents\\GitHub\\Reinforcement learning\\wandb\\run-20250109_121826-ij0j858i\\logs\\debug-core.log"}
+{"time":"2025-01-09T12:18:26.4046935+01:00","level":"INFO","msg":"created new stream","id":"ij0j858i"}
+{"time":"2025-01-09T12:18:26.4046935+01:00","level":"INFO","msg":"stream: started","id":"ij0j858i"}
+{"time":"2025-01-09T12:18:26.4046935+01:00","level":"INFO","msg":"handler: started","stream_id":"ij0j858i"}
+{"time":"2025-01-09T12:18:26.4046935+01:00","level":"INFO","msg":"sender: started","stream_id":"ij0j858i"}
+{"time":"2025-01-09T12:18:26.4046935+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ij0j858i"}
+{"time":"2025-01-09T12:18:26.6697147+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-09T12:18:37.5337671+01:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
+{"time":"2025-01-09T12:31:53.6122558+01:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: truncate C:\\Users\\jarro\\Documents\\GitHub\\Reinforcement learning\\wandb\\run-20250109_121826-ij0j858i\\files\\output.log: The requested operation cannot be performed on a file with a user-mapped section open."}
+{"time":"2025-01-09T13:41:05.9340468+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-09T13:41:05.9340468+01:00","level":"INFO","msg":"stream: closing","id":"ij0j858i"}
+{"time":"2025-01-09T13:41:05.9379405+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-09T13:41:07.8376275+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-09T13:41:08.1269195+01:00","level":"INFO","msg":"handler: closed","stream_id":"ij0j858i"}
+{"time":"2025-01-09T13:41:08.1269195+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ij0j858i"}
+{"time":"2025-01-09T13:41:08.1269195+01:00","level":"INFO","msg":"sender: closed","stream_id":"ij0j858i"}
+{"time":"2025-01-09T13:41:08.1276779+01:00","level":"INFO","msg":"stream: closed","id":"ij0j858i"}

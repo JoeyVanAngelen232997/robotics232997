@@ -1,0 +1,10 @@
+{"time":"2025-01-14T11:17:13.566011+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-01-14T11:17:13.566011+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\jarro\\Documents\\GitHub\\Reinforcement learning\\wandb\\run-20250114_111713-40zcwlm2\\logs\\debug-core.log"}
+{"time":"2025-01-14T11:17:14.1602966+01:00","level":"INFO","msg":"created new stream","id":"40zcwlm2"}
+{"time":"2025-01-14T11:17:14.1629908+01:00","level":"INFO","msg":"stream: started","id":"40zcwlm2"}
+{"time":"2025-01-14T11:17:14.1618799+01:00","level":"INFO","msg":"handler: started","stream_id":"40zcwlm2"}
+{"time":"2025-01-14T11:17:14.1635478+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"40zcwlm2"}
+{"time":"2025-01-14T11:17:14.1635478+01:00","level":"INFO","msg":"sender: started","stream_id":"40zcwlm2"}
+{"time":"2025-01-14T11:17:14.5631454+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-14T11:17:26.715358+01:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
+{"time":"2025-01-14T11:19:38.0863185+01:00","level":"ERROR","msg":"runconsolelogs: failed to write to file: truncate C:\\Users\\jarro\\Documents\\GitHub\\Reinforcement learning\\wandb\\run-20250114_111713-40zcwlm2\\files\\output.log: The requested operation cannot be performed on a file with a user-mapped section open."}

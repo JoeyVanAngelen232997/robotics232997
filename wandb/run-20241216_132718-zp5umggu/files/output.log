@@ -1,0 +1,4 @@
+Using cpu device
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+Logging to runs/zp5umggu\runs/zp5umggu_1

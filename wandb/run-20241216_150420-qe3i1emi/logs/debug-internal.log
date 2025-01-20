@@ -1,0 +1,18 @@
+{"time":"2024-12-16T15:04:20.6193637+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-16T15:04:20.6199019+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\jarro\\Documents\\GitHub\\2023-24d-fai1-adsai-teamwork-t19\\2024-25b-fai2-adsai-JarroTeunissen231667\\datalab_tasks\\task9\\Reinforcement learning\\wandb\\run-20241216_150420-qe3i1emi\\logs\\debug-core.log"}
+{"time":"2024-12-16T15:04:20.7321267+01:00","level":"INFO","msg":"created new stream","id":"qe3i1emi"}
+{"time":"2024-12-16T15:04:20.7321267+01:00","level":"INFO","msg":"stream: started","id":"qe3i1emi"}
+{"time":"2024-12-16T15:04:20.7321267+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"qe3i1emi"}
+{"time":"2024-12-16T15:04:20.7321267+01:00","level":"INFO","msg":"sender: started","stream_id":"qe3i1emi"}
+{"time":"2024-12-16T15:04:20.7321267+01:00","level":"INFO","msg":"handler: started","stream_id":"qe3i1emi"}
+{"time":"2024-12-16T15:04:21.2317542+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T15:04:22.3270355+01:00","level":"INFO","msg":"stream: closing","id":"qe3i1emi"}
+{"time":"2024-12-16T15:04:22.3270355+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T15:04:22.3275733+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T15:04:31.9807485+01:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
+{"time":"2024-12-16T15:04:31.9855483+01:00","level":"ERROR","msg":"tensorboard: error creating symlink","target":"C:\\Users\\jarro\\Documents\\GitHub\\2023-24d-fai1-adsai-teamwork-t19\\2024-25b-fai2-adsai-JarroTeunissen231667\\datalab_tasks\\task9\\Reinforcement learning\\runs\\qe3i1emi\\runs\\qe3i1emi_0\\events.out.tfevents.1734357861.JarroLaptop.10412.0","symlink":"C:\\Users\\jarro\\Documents\\GitHub\\2023-24d-fai1-adsai-teamwork-t19\\2024-25b-fai2-adsai-JarroTeunissen231667\\datalab_tasks\\task9\\Reinforcement learning\\wandb\\run-20241216_150420-qe3i1emi\\files\\runs\\qe3i1emi\\runs\\qe3i1emi_0\\events.out.tfevents.1734357861.JarroLaptop.10412.0","error":"symlink C:\\Users\\jarro\\Documents\\GitHub\\2023-24d-fai1-adsai-teamwork-t19\\2024-25b-fai2-adsai-JarroTeunissen231667\\datalab_tasks\\task9\\Reinforcement learning\\runs\\qe3i1emi\\runs\\qe3i1emi_0\\events.out.tfevents.1734357861.JarroLaptop.10412.0 C:\\Users\\jarro\\Documents\\GitHub\\2023-24d-fai1-adsai-teamwork-t19\\2024-25b-fai2-adsai-JarroTeunissen231667\\datalab_tasks\\task9\\Reinforcement learning\\wandb\\run-20241216_150420-qe3i1emi\\files\\runs\\qe3i1emi\\runs\\qe3i1emi_0\\events.out.tfevents.1734357861.JarroLaptop.10412.0: A required privilege is not held by the client."}
+{"time":"2024-12-16T15:04:32.6860435+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T15:04:32.9876241+01:00","level":"INFO","msg":"sender: closed","stream_id":"qe3i1emi"}
+{"time":"2024-12-16T15:04:32.9876241+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"qe3i1emi"}
+{"time":"2024-12-16T15:04:32.9876241+01:00","level":"INFO","msg":"handler: closed","stream_id":"qe3i1emi"}
+{"time":"2024-12-16T15:04:32.9881313+01:00","level":"INFO","msg":"stream: closed","id":"qe3i1emi"}

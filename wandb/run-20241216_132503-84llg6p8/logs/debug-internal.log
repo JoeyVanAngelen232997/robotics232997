@@ -1,0 +1,25 @@
+{"time":"2024-12-16T13:25:03.8120923+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-16T13:25:03.8120923+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\jarro\\Documents\\GitHub\\2023-24d-fai1-adsai-teamwork-t19\\2024-25b-fai2-adsai-JarroTeunissen231667\\datalab_tasks\\task9\\Reinforcement learning\\wandb\\run-20241216_132503-84llg6p8\\logs\\debug-core.log"}
+{"time":"2024-12-16T13:25:04.5200684+01:00","level":"INFO","msg":"created new stream","id":"84llg6p8"}
+{"time":"2024-12-16T13:25:04.5200684+01:00","level":"INFO","msg":"stream: started","id":"84llg6p8"}
+{"time":"2024-12-16T13:25:04.5200684+01:00","level":"INFO","msg":"handler: started","stream_id":"84llg6p8"}
+{"time":"2024-12-16T13:25:04.5200684+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"84llg6p8"}
+{"time":"2024-12-16T13:25:04.5200684+01:00","level":"INFO","msg":"sender: started","stream_id":"84llg6p8"}
+{"time":"2024-12-16T13:25:04.9582682+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T13:25:06.2439063+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-16T13:25:11.7390203+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-16T13:25:11.7543092+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-16T13:25:23.5551962+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-16T13:25:41.4185856+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-16T13:25:41.4653364+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-16T13:25:41.4669375+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-16T13:25:41.5021435+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-16T13:25:41.7028567+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-16T13:25:51.9815216+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-16T13:25:52.0035911+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-16T13:25:55.8293158+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-16T13:25:55.8353841+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-16T13:26:10.1472044+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-16T13:26:11.6979886+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-16T13:26:20.1784072+01:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
+{"time":"2024-12-16T13:26:20.1804084+01:00","level":"ERROR","msg":"tensorboard: error creating symlink","target":"c:\\Users\\jarro\\Documents\\GitHub\\2023-24d-fai1-adsai-teamwork-t19\\2024-25b-fai2-adsai-JarroTeunissen231667\\datalab_tasks\\task9\\Reinforcement learning\\runs\\84llg6p8\\runs\\84llg6p8_1\\events.out.tfevents.1734351970.JarroLaptop.36040.0","symlink":"c:\\Users\\jarro\\Documents\\GitHub\\2023-24d-fai1-adsai-teamwork-t19\\2024-25b-fai2-adsai-JarroTeunissen231667\\datalab_tasks\\task9\\Reinforcement learning\\wandb\\run-20241216_132503-84llg6p8\\files\\runs\\84llg6p8\\runs\\84llg6p8_1\\events.out.tfevents.1734351970.JarroLaptop.36040.0","error":"symlink c:\\Users\\jarro\\Documents\\GitHub\\2023-24d-fai1-adsai-teamwork-t19\\2024-25b-fai2-adsai-JarroTeunissen231667\\datalab_tasks\\task9\\Reinforcement learning\\runs\\84llg6p8\\runs\\84llg6p8_1\\events.out.tfevents.1734351970.JarroLaptop.36040.0 c:\\Users\\jarro\\Documents\\GitHub\\2023-24d-fai1-adsai-teamwork-t19\\2024-25b-fai2-adsai-JarroTeunissen231667\\datalab_tasks\\task9\\Reinforcement learning\\wandb\\run-20241216_132503-84llg6p8\\files\\runs\\84llg6p8\\runs\\84llg6p8_1\\events.out.tfevents.1734351970.JarroLaptop.36040.0: A required privilege is not held by the client."}

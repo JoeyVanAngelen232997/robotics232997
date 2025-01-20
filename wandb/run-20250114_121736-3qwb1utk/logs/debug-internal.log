@@ -1,0 +1,9 @@
+{"time":"2025-01-14T12:17:36.339084+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-01-14T12:17:36.3397377+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\jarro\\Documents\\GitHub\\Reinforcement learning\\wandb\\run-20250114_121736-3qwb1utk\\logs\\debug-core.log"}
+{"time":"2025-01-14T12:17:37.2459203+01:00","level":"INFO","msg":"created new stream","id":"3qwb1utk"}
+{"time":"2025-01-14T12:17:37.2472043+01:00","level":"INFO","msg":"stream: started","id":"3qwb1utk"}
+{"time":"2025-01-14T12:17:37.2478741+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"3qwb1utk"}
+{"time":"2025-01-14T12:17:37.2472043+01:00","level":"INFO","msg":"handler: started","stream_id":"3qwb1utk"}
+{"time":"2025-01-14T12:17:37.2478741+01:00","level":"INFO","msg":"sender: started","stream_id":"3qwb1utk"}
+{"time":"2025-01-14T12:17:37.7310634+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-14T12:17:49.6913174+01:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}

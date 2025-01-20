@@ -1,0 +1,17 @@
+{"time":"2025-01-14T12:04:27.9647947+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-01-14T12:04:27.9647947+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\jarro\\Documents\\GitHub\\Reinforcement learning\\wandb\\run-20250114_120427-s34l5dtg\\logs\\debug-core.log"}
+{"time":"2025-01-14T12:04:28.073828+01:00","level":"INFO","msg":"created new stream","id":"s34l5dtg"}
+{"time":"2025-01-14T12:04:28.073828+01:00","level":"INFO","msg":"stream: started","id":"s34l5dtg"}
+{"time":"2025-01-14T12:04:28.073828+01:00","level":"INFO","msg":"sender: started","stream_id":"s34l5dtg"}
+{"time":"2025-01-14T12:04:28.073828+01:00","level":"INFO","msg":"handler: started","stream_id":"s34l5dtg"}
+{"time":"2025-01-14T12:04:28.073828+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"s34l5dtg"}
+{"time":"2025-01-14T12:04:28.7491798+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-14T12:04:29.8900736+01:00","level":"INFO","msg":"stream: closing","id":"s34l5dtg"}
+{"time":"2025-01-14T12:04:29.8906208+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-14T12:04:29.8911326+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-14T12:04:39.8459458+01:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
+{"time":"2025-01-14T12:04:40.6998344+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-14T12:04:40.9638396+01:00","level":"INFO","msg":"handler: closed","stream_id":"s34l5dtg"}
+{"time":"2025-01-14T12:04:40.9638396+01:00","level":"INFO","msg":"sender: closed","stream_id":"s34l5dtg"}
+{"time":"2025-01-14T12:04:40.9638396+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"s34l5dtg"}
+{"time":"2025-01-14T12:04:40.9638396+01:00","level":"INFO","msg":"stream: closed","id":"s34l5dtg"}

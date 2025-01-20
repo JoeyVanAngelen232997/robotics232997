@@ -1,0 +1,109 @@
+Using cpu device
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+----------------------------------
+| rollout/           |           |
+|    ep_len_mean     | 200       |
+|    ep_rew_mean     | -1.21e+03 |
+| time/              |           |
+|    fps             | 1533      |
+|    iterations      | 1         |
+|    time_elapsed    | 1         |
+|    total_timesteps | 2048      |
+----------------------------------
+-------------------------------------------
+| rollout/                |               |
+|    ep_len_mean          | 200           |
+|    ep_rew_mean          | -1.14e+03     |
+| time/                   |               |
+|    fps                  | 885           |
+|    iterations           | 2             |
+|    time_elapsed         | 4             |
+|    total_timesteps      | 4096          |
+| train/                  |               |
+|    approx_kl            | 0.00091233826 |
+|    clip_fraction        | 0.000537      |
+|    clip_range           | 0.2           |
+|    entropy_loss         | -1.42         |
+|    explained_variance   | 0.00329       |
+|    learning_rate        | 0.0003        |
+|    loss                 | 4.14e+03      |
+|    n_updates            | 10            |
+|    policy_gradient_loss | -0.000486     |
+|    std                  | 1.01          |
+|    value_loss           | 8.92e+03      |
+-------------------------------------------
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 200          |
+|    ep_rew_mean          | -1.16e+03    |
+| time/                   |              |
+|    fps                  | 784          |
+|    iterations           | 3            |
+|    time_elapsed         | 7            |
+|    total_timesteps      | 6144         |
+| train/                  |              |
+|    approx_kl            | 0.0015610124 |
+|    clip_fraction        | 0.004        |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -1.43        |
+|    explained_variance   | 0.155        |
+|    learning_rate        | 0.0003       |
+|    loss                 | 2.81e+03     |
+|    n_updates            | 20           |
+|    policy_gradient_loss | -0.000675    |
+|    std                  | 1.01         |
+|    value_loss           | 6.7e+03      |
+------------------------------------------
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 200          |
+|    ep_rew_mean          | -1.2e+03     |
+| time/                   |              |
+|    fps                  | 735          |
+|    iterations           | 4            |
+|    time_elapsed         | 11           |
+|    total_timesteps      | 8192         |
+| train/                  |              |
+|    approx_kl            | 0.0027174186 |
+|    clip_fraction        | 0.00405      |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -1.43        |
+|    explained_variance   | 0.0399       |
+|    learning_rate        | 0.0003       |
+|    loss                 | 3.79e+03     |
+|    n_updates            | 30           |
+|    policy_gradient_loss | -0.000551    |
+|    std                  | 1.01         |
+|    value_loss           | 8.49e+03     |
+------------------------------------------
+------------------------------------------
+| rollout/                |              |
+|    ep_len_mean          | 200          |
+|    ep_rew_mean          | -1.23e+03    |
+| time/                   |              |
+|    fps                  | 710          |
+|    iterations           | 5            |
+|    time_elapsed         | 14           |
+|    total_timesteps      | 10240        |
+| train/                  |              |
+|    approx_kl            | 0.0023964068 |
+|    clip_fraction        | 0.00605      |
+|    clip_range           | 0.2          |
+|    entropy_loss         | -1.42        |
+|    explained_variance   | 0.0123       |
+|    learning_rate        | 0.0003       |
+|    loss                 | 4.6e+03      |
+|    n_updates            | 40           |
+|    policy_gradient_loss | -0.00156     |
+|    std                  | 0.997        |
+|    value_loss           | 1.12e+04     |
+------------------------------------------
+Using cpu device
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+[]
+Using cpu device
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+Logging to runs/84llg6p8\runs/84llg6p8_1

@@ -1,0 +1,30 @@
+Using cpu device
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+Logging to runs/s34l5dtg\runs/s34l5dtg_0
+[2KTraceback (most recent call last):━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0/5,000,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+[2K  File "trainownpc.py", line 87, in <module>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0/5,000,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+    model.learn(total_timesteps=timesteps, callback=wandb_callback, progress_bar=True,
+reset_num_timesteps=False,tb_log_name=f"runs/{run.id}")
+[2K  File "C:\Users\jarro\anaconda3\envs\block_2B_2\lib\site-packages\stable_baselines3\ppo\ppo.py", line 311, in learn0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+    return super().learn(
+[2K  File "C:\Users\jarro\anaconda3\envs\block_2B_2\lib\site-packages\stable_baselines3\common\on_policy_algorithm.py", m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+line 323, in learn
+    continue_training = self.collect_rollouts(self.env, callback, self.rollout_buffer, n_rollout_steps=self.n_steps)
+[2K  File "C:\Users\jarro\anaconda3\envs\block_2B_2\lib\site-packages\stable_baselines3\common\on_policy_algorithm.py", m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+line 218, in collect_rollouts
+    new_obs, rewards, dones, infos = env.step(clipped_actions)
+[2K  File "C:\Users\jarro\anaconda3\envs\block_2B_2\lib\site-packages\stable_baselines3\common\vec_env\base_vec_env.py",  [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+line 206, in step
+    return self.step_wait()
+[2K  File "C:\Users\jarro\anaconda3\envs\block_2B_2\lib\site-packages\stable_baselines3\common\vec_env\dummy_vec_env.py", [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+line 58, in step_wait
+    obs, self.buf_rews[env_idx], terminated, truncated, self.buf_infos[env_idx] = self.envs[env_idx].step(
+[2K  File "C:\Users\jarro\anaconda3\envs\block_2B_2\lib\site-packages\stable_baselines3\common\monitor.py", line 94, in m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+step
+    observation, reward, terminated, truncated, info = self.env.step(action)
+[2K  File "C:\Users\jarro\Documents\GitHub\Reinforcement learning\ot2_env_wrapper_rework3.py", line 83, in step0,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+    previous_distance = np.linalg.norm(np.array(self.sim.get_previous_pipette_position(self.sim.robotIds[0])) -
+np.array(self.goal_position))
+[2KAttributeError: 'Simulation' object has no attribute 'get_previous_pipette_position'━━━━━━━━[0m [32m0/5,000,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]
+[35m   0%[0m [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0/5,000,000 [0m [ [33m0:00:00[0m < [36m-:--:--[0m , [31m? it/s[0m ]

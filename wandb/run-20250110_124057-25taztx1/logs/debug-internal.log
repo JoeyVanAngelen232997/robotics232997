@@ -1,0 +1,16 @@
+{"time":"2025-01-10T12:40:57.1651033+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-01-10T12:40:57.1651033+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\jarro\\Documents\\GitHub\\Reinforcement learning\\wandb\\run-20250110_124057-25taztx1\\logs\\debug-core.log"}
+{"time":"2025-01-10T12:40:57.2826172+01:00","level":"INFO","msg":"created new stream","id":"25taztx1"}
+{"time":"2025-01-10T12:40:57.2826172+01:00","level":"INFO","msg":"stream: started","id":"25taztx1"}
+{"time":"2025-01-10T12:40:57.2832297+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"25taztx1"}
+{"time":"2025-01-10T12:40:57.2832297+01:00","level":"INFO","msg":"sender: started","stream_id":"25taztx1"}
+{"time":"2025-01-10T12:40:57.2832297+01:00","level":"INFO","msg":"handler: started","stream_id":"25taztx1"}
+{"time":"2025-01-10T12:40:57.8438948+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-10T12:40:58.1190724+01:00","level":"INFO","msg":"stream: closing","id":"25taztx1"}
+{"time":"2025-01-10T12:40:58.1190724+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-10T12:40:58.120366+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-10T12:40:59.0712909+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-10T12:40:59.272611+01:00","level":"INFO","msg":"handler: closed","stream_id":"25taztx1"}
+{"time":"2025-01-10T12:40:59.2731566+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"25taztx1"}
+{"time":"2025-01-10T12:40:59.2731566+01:00","level":"INFO","msg":"sender: closed","stream_id":"25taztx1"}
+{"time":"2025-01-10T12:40:59.2731566+01:00","level":"INFO","msg":"stream: closed","id":"25taztx1"}

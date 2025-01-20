@@ -1,8 +1,0 @@
-{"time":"2025-01-20T16:57:23.606339+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
-{"time":"2025-01-20T16:57:23.606409+01:00","level":"INFO","msg":"created symlink","path":"/Users/joeyvanangelen/Desktop/Code/BUas/robotics232997/wandb/run-20250120_165723-treizzqy/logs/debug-core.log"}
-{"time":"2025-01-20T16:57:23.719894+01:00","level":"INFO","msg":"created new stream","id":"treizzqy"}
-{"time":"2025-01-20T16:57:23.719965+01:00","level":"INFO","msg":"stream: started","id":"treizzqy"}
-{"time":"2025-01-20T16:57:23.720125+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"treizzqy"}
-{"time":"2025-01-20T16:57:23.720233+01:00","level":"INFO","msg":"sender: started","stream_id":"treizzqy"}
-{"time":"2025-01-20T16:57:23.720353+01:00","level":"INFO","msg":"handler: started","stream_id":"treizzqy"}
-{"time":"2025-01-20T16:57:24.09437+01:00","level":"INFO","msg":"Starting system monitor"}

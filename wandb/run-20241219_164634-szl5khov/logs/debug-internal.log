@@ -1,0 +1,10 @@
+{"time":"2024-12-19T16:46:34.5985627+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-19T16:46:34.5985627+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\jarro\\Documents\\GitHub\\Reinforcement learning\\wandb\\run-20241219_164634-szl5khov\\logs\\debug-core.log"}
+{"time":"2024-12-19T16:46:34.7180341+01:00","level":"INFO","msg":"created new stream","id":"szl5khov"}
+{"time":"2024-12-19T16:46:34.7180341+01:00","level":"INFO","msg":"stream: started","id":"szl5khov"}
+{"time":"2024-12-19T16:46:34.7180341+01:00","level":"INFO","msg":"handler: started","stream_id":"szl5khov"}
+{"time":"2024-12-19T16:46:34.7180341+01:00","level":"INFO","msg":"sender: started","stream_id":"szl5khov"}
+{"time":"2024-12-19T16:46:34.7180341+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"szl5khov"}
+{"time":"2024-12-19T16:46:35.0660906+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-19T16:46:45.0778597+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 26864"}
+{"time":"2024-12-19T16:47:15.0665601+01:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}

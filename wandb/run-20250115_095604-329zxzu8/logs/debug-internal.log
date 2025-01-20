@@ -1,0 +1,19 @@
+{"time":"2025-01-15T09:56:04.2999111+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-01-15T09:56:04.2999111+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\jarro\\Documents\\GitHub\\Reinforcement learning\\wandb\\run-20250115_095604-329zxzu8\\logs\\debug-core.log"}
+{"time":"2025-01-15T09:56:04.9297875+01:00","level":"INFO","msg":"created new stream","id":"329zxzu8"}
+{"time":"2025-01-15T09:56:04.9297875+01:00","level":"INFO","msg":"stream: started","id":"329zxzu8"}
+{"time":"2025-01-15T09:56:04.9297875+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"329zxzu8"}
+{"time":"2025-01-15T09:56:04.9297875+01:00","level":"INFO","msg":"handler: started","stream_id":"329zxzu8"}
+{"time":"2025-01-15T09:56:04.9297875+01:00","level":"INFO","msg":"sender: started","stream_id":"329zxzu8"}
+{"time":"2025-01-15T09:56:05.241591+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T09:56:16.9729786+01:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
+{"time":"2025-01-15T10:36:16.894223+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/231667-breda-university-of-applied-sciences/2024-Y2B-RoboSuite/329zxzu8/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-15T10:36:26.992781+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 145.101.231.114:53721->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-01-15T11:08:17.5558215+01:00","level":"INFO","msg":"stream: closing","id":"329zxzu8"}
+{"time":"2025-01-15T11:08:17.5558215+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T11:08:17.5650822+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T11:08:19.383393+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-15T11:08:19.6733755+01:00","level":"INFO","msg":"handler: closed","stream_id":"329zxzu8"}
+{"time":"2025-01-15T11:08:19.6740241+01:00","level":"INFO","msg":"sender: closed","stream_id":"329zxzu8"}
+{"time":"2025-01-15T11:08:19.6733755+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"329zxzu8"}
+{"time":"2025-01-15T11:08:19.6740241+01:00","level":"INFO","msg":"stream: closed","id":"329zxzu8"}
