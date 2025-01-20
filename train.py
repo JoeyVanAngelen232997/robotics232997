@@ -20,7 +20,7 @@ os.environ['WANDB_API_KEY'] = '4dc86acf289861c548514bbebcf1e5ae3cb63a5d'
 run = wandb.init(project="2024-Y2B-RoboSuite", sync_tensorboard=True)
 
 
-task = Task.init(project_name='Mentor Group M/Group 2', task_name='Name')
+task = Task.init(project_name='Mentor Group M/Group 2/JoeyVA', task_name='Sample1')
 task.set_base_docker('deanis/2023y2b-rl:latest')
 
 # Set base docker image and queue
